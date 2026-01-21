@@ -26,3 +26,7 @@
 .carousel-caption h1 {
   font-size: 3rem;
 }
+
+body {
+  padding-top: 70px;
+}
