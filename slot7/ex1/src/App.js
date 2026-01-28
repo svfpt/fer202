@@ -1,9 +1,9 @@
-import TestUseState from './component/TestUseState';
+import QuantityEditor from './component/QuantityEditor';
 
 function App() {
   return (
     <div>
-      <TestUseState />
+      <QuantityEditor />
     </div>
   );
 }
