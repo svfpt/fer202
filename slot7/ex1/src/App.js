@@ -1,11 +1,7 @@
-import QuantityEditor from './component/QuantityEditor';
+import TestUseState from "./component/TestUseState";
 
 function App() {
-  return (
-    <div>
-      <QuantityEditor />
-    </div>
-  );
+  return <TestUseState />;
 }
 
 export default App;
